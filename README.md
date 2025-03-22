@@ -1,6 +1,5 @@
 # ♻️ Hack the Waste 2024 - Recycle Ray
 
-## 🚀 About the Hackathon  
 **Hack the Waste** is an international hackathon powered by academic and industry partners to tackle waste management challenges with innovative solutions.  
 
 ### 🌍 **Powered by International Partners**
