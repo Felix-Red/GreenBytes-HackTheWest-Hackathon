@@ -14,7 +14,7 @@ This hackathon is supported by a global network of universities and organization
 - **THU University of Applied Sciences, Germany**  
 - **HackTribe**
 
-  ![https://github.com/Felix-Red/GreenBytes-HackTheWest-Hackathon/blob/master/Screenshot%202025-05-06%20at%209.23.03%E2%80%AFAM.png](certificate of participation)
+[https://github.com/Felix-Red/GreenBytes-HackTheWest-Hackathon/blob/master/Screenshot%202025-05-06%20at%209.23.03%E2%80%AFAM.png](certificate of participation)
 
 ---
 
